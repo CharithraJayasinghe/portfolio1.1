@@ -60,10 +60,10 @@ export default function Intro() {
               animate={{opacity: 1, y: 0}}
               transition={{duration: 1.2}}
           >
-              <span className="font-bold">Hello, I'm Charithra.</span> I'm a{" "}
-              <span className="font-bold">full-stack developer</span> with{" "}
+              <span className="font-bold">Hello, I'm Charithra.</span> I'm a{''}
+              <span className="font-bold">full-stack developer</span> with{''}
               <span className="font-bold">1 years</span> of experience. I enjoy
-              building <span className="italic">sites & apps</span>. My focus is{" "}
+              building <span className="italic">sites & apps</span>. My focus is{''}
               <span className="underline">React (Next.js), SpringBoot, Laravel, Flutter</span>.
           </motion.h1>
 

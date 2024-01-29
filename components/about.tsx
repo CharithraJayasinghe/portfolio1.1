@@ -18,18 +18,18 @@ export default function About() {
         >
             <SectionHeading>About me</SectionHeading>
             <p className="mb-3">
-                After completing my academic semesters in {" "}
+                After completing my academic semesters in {''}
                 <span className="font-medium">Institute of Technology University of Moratuwa</span>,
                 I decided to pursue my passion for programming. I enrolled to ongoing development projects as{" "}
-                <span className="font-medium">full-stack developer</span>.{" "}
+                <span className="font-medium">full-stack developer</span>.{''}
                 <span className="italic">My favorite part of programming</span> is the
                 problem-solving aspect. I <span className="underline">love</span> the
                 feeling of finally figuring out a solution to a problem. My core stack
-                is{" "}
+                is{''}
                 <span className="font-medium">
           Laravel, SpringBoot, React, Next.js, Node.js, and MySql
         </span>
-                . I am always looking to learn new technologies. I am currently looking for a{" "}
+                . I am always looking to learn new technologies. I am currently looking for a{''}
                 <span className="font-medium">full-time position</span> as a software
                 developer.
             </p>
@@ -38,7 +38,7 @@ export default function About() {
                 <span className="italic">When I'm not coding</span>, I enjoy playing
                 video games, watching movies. I also enjoy{" "}
                 <span className="font-medium">learning new things</span>. I am currently
-                learning about{" "}
+                learning about{''}
                 <span className="font-medium">New Trends in Ai Technology</span>. I'm also
                 learning how to play the guitar.
             </p>
