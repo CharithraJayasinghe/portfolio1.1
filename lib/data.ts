@@ -79,7 +79,7 @@ export const projectsData = [
   {
     title: "FoodCorner",
     description:
-      "MERN Stack project that users can register themselves and find recipes for their favorite meals. meal details are fetched from external API and provide varity of foods and itas description. Admin users have different options like remove user, edit user and see all users. ",
+      "MERN Stack project that users can register themselves and find recipes for their favorite meals.  ",
     tags: ["MongoDb", "Node.js", "React" , "ExpressJS"],
     imageUrl: foodapp,
     webSite: "https://food-app-frontend-9vra.vercel.app/login",
